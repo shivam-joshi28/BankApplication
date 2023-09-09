@@ -1,0 +1,33 @@
+.title{
+      text-align: center;
+      text-decoration: underline;
+      
+}
+.formname{
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}
+.date{
+    text-align: right;
+    /* padding-right: 100px; */
+}
+.bad{
+    text-align: right ;
+}
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px ;
+}
+select{
+    margin-top: 10px;
+}
+.sign{
+    text-align: right;
+}
+body{
+    background-color: lawngreen;
+}
